@@ -1,0 +1,9 @@
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+doc/api/
+build/
+.vscode/
+*.swp
+.DS_Store
